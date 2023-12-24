@@ -22,6 +22,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 ```
 stdcal.html
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -94,6 +95,7 @@ stdcal.html
 </html>
 ```
 ## OUTPUT:
+
 ![Screenshot from 2023-12-24 12-23-32](https://github.com/DivyaMunirathnamm/standard-calculator/assets/147474097/792ee10d-d1bf-447a-87c7-5c6fe0950b40)
 ![Screenshot from 2023-12-24 12-23-46](https://github.com/DivyaMunirathnamm/standard-calculator/assets/147474097/9287a3d7-795b-45ed-9a63-fe0f71cec51b)
 
